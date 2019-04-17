@@ -10,3 +10,21 @@
 	background-size: cover;
 	background-position: center;
 }
+.main-visual2 {
+	height: 200px;
+	background-image: url(img/box2.jpg);
+	background-size: cover;
+	background-position: center;
+}
+.main-visual3 {
+	height: 200px;
+	background-image: url(img/box3.jpg);
+	background-size: cover;
+	background-position: center;
+}
+.main-visual4 {
+	height: 200px;
+	background-image: url(img/box4.jpg);
+	background-size: cover;
+	background-position: center;
+}
